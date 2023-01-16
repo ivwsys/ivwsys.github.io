@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      春江花月夜
-category:
+category:   blog
 description:
 ---
 
