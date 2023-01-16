@@ -412,10 +412,10 @@ a.external:hover {
   margin: 0 auto;
 }
 .about-wrapper {
-  background: #7e96a9;
-  width: 900px;
+  background: #f5f5f5;
+  width: 82px;
   margin: 0 auto;
-  padding: 30px 60px;
+  padding: 5px 5px;
 }
 @media screen and (max-width: 767px) {
   .about-wrapper {
@@ -439,6 +439,7 @@ a.external:hover {
 }
 .about-wrapper .aboutme h2 a {
   font-size: 18px;
+  color: blue;
 }
 .about-wrapper .aboutme li {
   line-height: 1.4;

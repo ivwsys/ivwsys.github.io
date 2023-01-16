@@ -1,6 +1,6 @@
 permalink: /:title
 
 title: ivwsys
-url: https://ivwsys.github.io
+url: 
 feed: /atom.xml
-author_info: <a href="https://ivwsys.github.io/">ivwsys</a>
+author_info: <a href="">ivwsys</a>
